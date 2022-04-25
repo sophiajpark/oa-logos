@@ -20,9 +20,8 @@ body {
 }
 #instagram-tag {
     padding-left: 0.5rem;
-
+    text-decoration: underline;
 }
-
 .margin {
     margin-top: 1rem;
     margin-bottom: 1rem;
