@@ -1,0 +1,39 @@
+* {
+padding: 0;
+margin: 0;
+}
+
+body {
+    text-align: center;
+}
+
+#logo-image {
+    width: 5rem;
+}
+#instagram-logo {
+    width: 1rem;
+}
+.horizontal-align {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#instagram-tag {
+    padding-left: 0.5rem;
+
+}
+
+.margin {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+#team-names {
+    margin-top: 2rem;
+    line-height: 1.5rem;
+}
+.content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
