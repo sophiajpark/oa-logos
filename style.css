@@ -9,6 +9,7 @@ body {
 
 #logo-image {
     width: 5rem;
+    position:relative;
 }
 #instagram-logo {
     width: 1rem;
@@ -35,4 +36,9 @@ body {
     align-items: center;
     justify-content: center;
     height: 100vh;
+}
+#logo-confetti {
+    width: 1rem;
+    position: absolute;
+    
 }
